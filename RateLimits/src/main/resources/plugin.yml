@@ -1,0 +1,4 @@
+name: RateLimits
+version: '${project.version}'
+main: me.mio.ratelimits.RateLimits
+api-version: 1.19
